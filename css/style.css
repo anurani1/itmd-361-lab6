@@ -1,10 +1,18 @@
 body {
-  background-color: #282948;
+  background-color: #7a5d78;
   font-family: 'Times New Roman', Times, serif;
-  color: #1b5355;
+  color: #2e284b;
   text-align: center;
 }
 
+h1 {
+  color: #190933;
+  background-color: #7a5d78;
+  border: 1px solid;
+  border-color: #190933;
+  font-size: 24px;
+  font-weight: bold;
+}
 
 td, th {
 	border: 1px solid;
