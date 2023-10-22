@@ -4,7 +4,12 @@ body {
   color: #2e284b;
   text-align: center;
 }
-
+#introduction {
+  color:#2e284b;
+  border: 1px solid;
+  font-size: 12px;
+  
+}
 h1 {
   color: #190933;
   background-color: #7a5d78;
