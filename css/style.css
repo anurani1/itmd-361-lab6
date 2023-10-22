@@ -8,7 +8,7 @@ body {
   color:#2e284b;
   border: 1px solid;
   font-size: 12px;
-  
+
 }
 h1 {
   color: #190933;
@@ -20,7 +20,7 @@ h1 {
 }
 
 td, th {
-	border: 1px solid;
+  border: 1px solid;
 }
   
 #planets {
